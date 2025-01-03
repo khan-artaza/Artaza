@@ -701,7 +701,6 @@ footer p{
         background-size: contain;
         height: 60vh;
         padding-top: 100px;
-        z-index: 1000;
         position: relative;
     }
 
