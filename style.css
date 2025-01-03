@@ -635,6 +635,7 @@ footer p{
         align-items: center;
         padding: 5px 20px;
         position: sticky;
+        z-index: 1000;
     }
 
     #home {
