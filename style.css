@@ -392,7 +392,11 @@ footer p{
     body, html{
         width: 100vw;
         overflow-x: hidden;
-        height: 100%;
+    
+    }
+
+    #nav a{
+        pointer-events: auto;
     }
 
     #nav{
@@ -580,8 +584,11 @@ footer p{
     body, html{
         width: 100vw;
         overflow-x: hidden;
-        height: 100%;
         
+    }
+
+    #nav a{
+        pointer-events: auto;
     }
 
     #nav{
