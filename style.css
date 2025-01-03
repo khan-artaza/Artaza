@@ -584,7 +584,8 @@ footer p{
     body, html{
         width: 100vw;
         overflow-x: hidden;
-        
+        height: 100%;
+        margin: 0;
     }
 
     #nav a{
