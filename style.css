@@ -702,6 +702,7 @@ footer p{
         height: 60vh;
         padding-top: 100px;
         z-index: 1000;
+        position: relative;
     }
 
     .outerDiv {
@@ -718,8 +719,8 @@ footer p{
         column-gap: 1px;
         row-gap: 10px;
         width: 100vw;
-        /* position: absolute; */
-        left: 25px;
+        position: absolute;
+        left: 22px;
     }
 
     .skillCard img {
